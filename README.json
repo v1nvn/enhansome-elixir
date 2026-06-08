@@ -26,7 +26,7 @@
             "last_commit": "2026-06-01T05:21:21Z",
             "owner": "synrc",
             "repo": "bpmn",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -1374,7 +1374,7 @@
             "last_commit": "2026-05-28T12:17:09Z",
             "owner": "pluralsh",
             "repo": "plural",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -1452,7 +1452,7 @@
             "last_commit": "2024-12-07T00:58:56Z",
             "owner": "fremantle-industries",
             "repo": "tai",
-            "stars": 497
+            "stars": 496
           }
         },
         {
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-06-07T01:30:35Z",
             "owner": "agentjido",
             "repo": "jido",
-            "stars": 1728
+            "stars": 1729
           }
         },
         {
@@ -3327,7 +3327,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-01T19:43:15Z",
+            "last_commit": "2026-06-08T03:42:34Z",
             "owner": "coryodaniel",
             "repo": "k8s",
             "stars": 337
@@ -3711,7 +3711,7 @@
             "last_commit": "2026-06-04T18:02:20Z",
             "owner": "fuelen",
             "repo": "owl",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -6717,7 +6717,7 @@
             "last_commit": "2026-06-04T09:09:49Z",
             "owner": "phenixdigital",
             "repo": "phoenix_storybook",
-            "stars": 861
+            "stars": 862
           }
         },
         {
@@ -7307,7 +7307,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-05T14:23:02Z",
+            "last_commit": "2026-06-08T02:03:39Z",
             "owner": "ash-project",
             "repo": "ash",
             "stars": 2422
@@ -7338,10 +7338,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-06T17:25:07Z",
+            "last_commit": "2026-06-08T05:23:59Z",
             "owner": "bartblast",
             "repo": "hologram",
-            "stars": 1358
+            "stars": 1360
           }
         },
         {
@@ -7390,7 +7390,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-06T11:04:36Z",
+            "last_commit": "2026-06-08T04:08:19Z",
             "owner": "petalframework",
             "repo": "petal_components",
             "stars": 1037
@@ -7406,7 +7406,7 @@
             "last_commit": "2026-06-06T09:25:21Z",
             "owner": "phoenixframework",
             "repo": "phoenix",
-            "stars": 23011
+            "stars": 23013
           }
         },
         {
@@ -8096,7 +8096,7 @@
             "last_commit": "2026-05-12T12:55:08Z",
             "owner": "sneako",
             "repo": "finch",
-            "stars": 1355
+            "stars": 1356
           }
         },
         {
@@ -8132,10 +8132,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-06-06T22:31:43Z",
+            "last_commit": "2026-06-07T09:28:22Z",
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1408
+            "stars": 1409
           }
         },
         {
@@ -8317,7 +8317,7 @@
             "last_commit": "2026-06-05T16:50:43Z",
             "owner": "wojtekmach",
             "repo": "req",
-            "stars": 1312
+            "stars": 1313
           }
         },
         {
@@ -8382,7 +8382,7 @@
             "last_commit": "2026-06-06T16:22:16Z",
             "owner": "elixir-tesla",
             "repo": "tesla",
-            "stars": 2075
+            "stars": 2076
           }
         },
         {
@@ -10019,7 +10019,7 @@
             "last_commit": "2022-12-09T13:47:53Z",
             "owner": "AlloyCI",
             "repo": "alloy_ci",
-            "stars": 289
+            "stars": 290
           }
         },
         {
@@ -10042,10 +10042,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-06-06T12:33:22Z",
+            "last_commit": "2026-06-07T14:42:45Z",
             "owner": "atomvm",
             "repo": "AtomVM",
-            "stars": 2147
+            "stars": 2148
           }
         },
         {
@@ -10159,7 +10159,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-05-22T05:02:43Z",
+            "last_commit": "2026-06-08T02:03:04Z",
             "owner": "wemake-services",
             "repo": "ecto_autoslug_field",
             "stars": 152
@@ -10253,7 +10253,7 @@
             "last_commit": "2026-03-18T10:06:19Z",
             "owner": "ex-phone-number",
             "repo": "ex_phone_number",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -10988,7 +10988,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-07T05:23:45Z",
+            "last_commit": "2026-06-08T03:09:04Z",
             "owner": "firezone",
             "repo": "firezone",
             "stars": 8638
@@ -11946,7 +11946,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-05-22T02:28:47Z",
+            "last_commit": "2026-06-08T02:08:47Z",
             "owner": "Frost",
             "repo": "isn",
             "stars": 10
@@ -12196,7 +12196,7 @@
             "last_commit": "2026-05-13T08:40:05Z",
             "owner": "elixir-ecto",
             "repo": "postgrex",
-            "stars": 1210
+            "stars": 1211
           }
         },
         {
@@ -12245,7 +12245,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-06T17:45:45Z",
+            "last_commit": "2026-06-07T14:24:05Z",
             "owner": "whatyouhide",
             "repo": "redix",
             "stars": 1136
@@ -12731,7 +12731,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-04T07:14:30Z",
+            "last_commit": "2026-06-08T06:02:45Z",
             "owner": "ahamez",
             "repo": "protox",
             "stars": 297
@@ -12815,7 +12815,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-04-17T06:55:38Z",
+            "last_commit": "2026-06-07T17:30:05Z",
             "owner": "elixir-broadway",
             "repo": "broadway",
             "stars": 2650
@@ -13507,7 +13507,7 @@
           "repo_info": {
             "archived": false,
             "language": "TeX",
-            "last_commit": "2026-06-07T02:41:26Z",
+            "last_commit": "2026-06-07T18:49:33Z",
             "owner": "synrc",
             "repo": "ca",
             "stars": 20
@@ -13549,7 +13549,7 @@
             "last_commit": "2026-01-04T22:01:38Z",
             "owner": "build-trust",
             "repo": "ockam",
-            "stars": 4627
+            "stars": 4628
           }
         },
         {
@@ -14015,7 +14015,7 @@
             "last_commit": "2025-07-10T09:08:20Z",
             "owner": "PSPDFKit-labs",
             "repo": "bypass",
-            "stars": 995
+            "stars": 996
           }
         },
         {
@@ -14561,7 +14561,7 @@
             "last_commit": "2026-05-06T09:41:46Z",
             "owner": "dashbitco",
             "repo": "mox",
-            "stars": 1394
+            "stars": 1395
           }
         },
         {
@@ -18987,10 +18987,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-06T16:31:38Z",
+            "last_commit": "2026-06-07T19:40:23Z",
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26489
+            "stars": 26503
           }
         },
         {
@@ -19000,10 +19000,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-06-06T16:31:38Z",
+            "last_commit": "2026-06-07T19:40:23Z",
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26489
+            "stars": 26503
           }
         },
         {
@@ -19046,7 +19046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:14:39.406Z",
+    "last_updated": "2026-06-08T06:28:35.916Z",
     "original_repository": "h4cc/awesome-elixir",
     "source_repository": "v1nvn/enhansome-elixir",
     "source_repository_description": null,
